@@ -12,5 +12,15 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mi
+
+
+Hi, I'm Margaret Amanfo from Ghana 🇬🇭
+🎓 UoPeople - Computer Science, First Year
+💻 Learning: GitHub, IT Support, Python
+I'm happy to learn a skill at GitHub! This is my first commit.
+
+My Goals:
+- Build my IT portfolio from Year 1
+- Learn real developer workflow (branches, PRs, merge)
 
