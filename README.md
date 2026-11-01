@@ -2,7 +2,10 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey amanfomargaret07-ai!
+Hey amanfomargaret07-ai!Hi, I'm Margaret from Kumasi, Ghana 🇬🇭
+- 🎓 BSc Computer Science @ University of the People (US accredited)
+- 💻 Learning Python
+- 📫 amanfomargaret07@gmail.com
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
