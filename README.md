@@ -2,6 +2,14 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+Hey! Hi, I'm Margaret from Kumasi, Ghana 🇬🇭
+- 🎓 BSc Computer Science @ University of the People (US accredited)
+- 💻 Learning Python
+- 📧 amanfomargaret07@gmail.com
+- 👩‍💻 Reach me on GitHub: @amanfomargaret07-ai
+- ⚡ Fun fact: BSc Computer Science student at UoPeople, started building from Year 1!
+
+
 Hey amanfomargaret07-ai!Hey amanfomargaret07-ai!
 Hi, I'm Margaret from Kumasi, Ghana 🇬🇭
 - 🎓 BSc Computer Science @ University of the People (US accredited)
